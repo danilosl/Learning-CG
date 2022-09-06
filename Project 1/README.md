@@ -11,7 +11,7 @@ Este projeto consiste em uma uma GUI que desenha as letras de seu nome, além de
 ## Resultados
 ### Tela Principal
 <p align="center">
-  <img src="https://github.com/danilosl/Learning-CG/blob/main/Project%201/img/tela_principal.jpg" height="330" width="400"/>
+  <img src="https://github.com/danilosl/Learning-CG/blob/main/Project%201/img/tela_principal.jpg" height="300" width="400"/>
 </p>
 
 ### Primeiro Nome
