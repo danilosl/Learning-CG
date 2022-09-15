@@ -11,21 +11,21 @@ Este projeto consiste em uma uma GUI que desenha as letras de seu nome, além de
 ## Resultados
 ### Tela Principal
 <p align="center">
-  <img src="https://github.com/danilosl/Learning-PDS/raw/main/img/sinais_brutos.svg"/>
+  <img src="https://github.com/danilosl/Learning-CG/blob/main/Project%201/img/tela_principal.jpg" height="300" width="400"/>
 </p>
 
 ### Primeiro Nome
 <p align="center">
-  <img src="https://github.com/danilosl/Learning-PDS/raw/main/img/sinais_brutos.svg"/>
+  <img src="https://github.com/danilosl/Learning-CG/blob/main/Project%201/img/primeiro_nome.jpg" height="330" width="400"/>
 </p>
 
 ### Primeiro Sobrenone
 <p align="center">
-  <img src="https://github.com/danilosl/Learning-PDS/raw/main/img/sinais_brutos.svg"/>
+  <img src="https://github.com/danilosl/Learning-CG/blob/main/Project%201/img/primeiro_sobrenome.jpg" height="330" width="400"/>
 </p>
 
 ### Segundo Sobrenome
 <p align="center">
-  <img src="https://github.com/danilosl/Learning-PDS/raw/main/img/sinais_brutos.svg"/>
+  <img src="https://github.com/danilosl/Learning-CG/blob/main/Project%201/img/segundo_sobrenome.jpg" height="330" width="400"/>
 </p>
 
